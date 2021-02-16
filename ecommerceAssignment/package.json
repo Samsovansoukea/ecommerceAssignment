@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/basir/ecommerceAssignment.git"
+        "url": "git+https://github.com/Samsovansoukea/ecommerceAssignment.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/basir/ecommerceAssignment/issues"
+        "url": "https://github.com/Samsovansoukea/ecommerceAssignment/issues"
     },
-    "homepage": "https://github.com/basir/ecommerceAssignment#readme",
+    "homepage": "https://github.com/Samsovansoukea/ecommerceAssignment#readme",
     "dependencies": {
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
